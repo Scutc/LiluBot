@@ -1,4 +1,4 @@
-package kryuchkov.production.LiluBySokolskiyBot.config;
+package kryuchkov.production.LilaBySokolskiyBot.config;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;

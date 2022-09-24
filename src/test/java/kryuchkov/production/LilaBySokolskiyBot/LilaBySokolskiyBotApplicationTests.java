@@ -1,10 +1,10 @@
-package kryuchkov.production.LiluBySokolskiyBot;
+package kryuchkov.production.LilaBySokolskiyBot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LiluBySokolskiyBotApplicationTests {
+class LilaBySokolskiyBotApplicationTests {
 
 	@Test
 	void contextLoads() {

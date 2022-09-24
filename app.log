@@ -1,0 +1,704 @@
+2022-09-23 15:20:06,509 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LiluBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 15285 (/Users/dmitrykryuchkov/dev/LiluBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LiluBySokolskiyBot)
+2022-09-23 15:20:06,512 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 15:20:08,242 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 15:20:08,248 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LiluBySokolskiyBotApplication in 2.041 seconds (JVM running for 2.95)
+2022-09-23 15:21:36,410 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:21:36,417 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 15:21:36,418 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 15:21:43,203 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853получил сообщение: SendMessage(chatId=167944853, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:21:43,203 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 167944853
+2022-09-23 15:44:07,970 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LiluBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 15564 (/Users/dmitrykryuchkov/dev/LiluBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LiluBySokolskiyBot)
+2022-09-23 15:44:07,972 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 15:44:09,853 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 15:44:09,862 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LiluBySokolskiyBotApplication in 2.234 seconds (JVM running for 3.237)
+2022-09-23 15:44:10,411 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:44:10,412 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 15:44:10,413 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 15:44:10,542 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:44:10,543 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 15:44:10,543 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 15:44:35,143 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:44:35,149 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 167944853
+2022-09-23 15:44:37,424 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:44:37,425 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 15:44:37,425 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 15:44:58,929 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 15:44:58,931 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 167944853
+2022-09-23 16:33:59,376 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LiluBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 16234 (/Users/dmitrykryuchkov/dev/LiluBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LiluBySokolskiyBot)
+2022-09-23 16:33:59,379 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 16:34:01,283 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 16:34:01,291 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LiluBySokolskiyBotApplication in 2.285 seconds (JVM running for 3.431)
+2022-09-23 16:34:13,529 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:34:13,530 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 16:34:13,531 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 16:34:17,920 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 6, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:34:17,925 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-23 16:34:21,115 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:34:21,116 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-23 16:34:24,240 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:34:24,241 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-23 16:34:26,825 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:34:26,825 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-23 16:34:29,044 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 6, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:34:29,045 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-23 16:35:57,358 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652 получил сообщение: SendMessage(chatId=196517652, text=Привет Elena, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:35:57,360 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Elena
+2022-09-23 16:35:57,360 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 196517652
+2022-09-23 16:36:01,165 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652 получил сообщение: SendMessage(chatId=196517652, text=Выпала цифра: 4, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:36:01,166 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652сделал бросок. Выпала цифра: 4
+2022-09-23 16:36:03,090 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652 получил сообщение: SendMessage(chatId=196517652, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:36:03,090 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652сделал бросок. Выпала цифра: 3
+2022-09-23 16:36:04,894 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652 получил сообщение: SendMessage(chatId=196517652, text=Выпала цифра: 1, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:36:04,895 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 196517652сделал бросок. Выпала цифра: 1
+2022-09-23 16:37:34,849 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Привет Алексей, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:34,853 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Алексей
+2022-09-23 16:37:34,853 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 146139842
+2022-09-23 16:37:38,522 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:38,528 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 146139842
+2022-09-23 16:37:43,092 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:43,092 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 146139842
+2022-09-23 16:37:46,276 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Привет Алексей, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:46,277 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Алексей
+2022-09-23 16:37:46,278 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 146139842
+2022-09-23 16:37:52,072 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:52,073 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 146139842
+2022-09-23 16:37:56,023 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 1, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:56,023 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 1
+2022-09-23 16:37:58,743 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:37:58,745 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 3
+2022-09-23 16:38:02,561 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 6, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:02,561 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 6
+2022-09-23 16:38:05,968 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 4, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:05,968 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 4
+2022-09-23 16:38:08,525 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 2, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:08,526 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 2
+2022-09-23 16:38:09,395 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:09,396 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 167944853
+2022-09-23 16:38:09,571 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 4, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:09,572 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 4
+2022-09-23 16:38:10,692 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 2, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:10,692 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 2
+2022-09-23 16:38:11,501 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 2, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:11,501 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 2
+2022-09-23 16:38:11,817 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:11,818 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-23 16:38:12,327 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:12,328 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 3
+2022-09-23 16:38:13,101 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 5, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:13,101 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 5
+2022-09-23 16:38:13,831 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 4, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:13,832 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 4
+2022-09-23 16:38:14,505 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 4, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:14,506 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 4
+2022-09-23 16:38:14,822 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:14,822 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-23 16:38:15,126 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 6, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:15,127 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 6
+2022-09-23 16:38:16,150 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 2, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:16,150 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 2
+2022-09-23 16:38:17,049 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:17,049 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-23 16:38:18,217 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:18,217 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 3
+2022-09-23 16:38:19,106 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 4, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:19,106 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 4
+2022-09-23 16:38:21,900 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:21,901 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-23 16:38:24,636 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:24,636 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-23 16:38:27,317 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 2, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:27,318 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 2
+2022-09-23 16:38:29,910 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:38:29,910 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LiluBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-23 16:50:17,386 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 16633 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-23 16:50:17,392 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 16:50:23,261 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 16:50:23,280 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 7.147 seconds (JVM running for 9.628)
+2022-09-23 16:50:32,704 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:50:32,705 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 16:50:32,705 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 16:50:35,890 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:50:35,896 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-23 16:50:41,010 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:50:41,010 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-23 16:50:43,198 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 6, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:50:43,199 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-23 16:50:45,629 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 16:50:45,630 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-23 22:00:12,494 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 17642 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-23 22:00:12,498 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 22:00:14,707 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 22:00:14,719 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 2.61 seconds (JVM running for 3.711)
+2022-09-23 22:00:58,937 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:00:58,938 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 22:00:58,939 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 22:01:03,637 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Executor] null
+java.lang.NullPointerException: null
+	at kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot.makeAMove(TelegramBot.java:86)
+	at kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot.onUpdateReceived(TelegramBot.java:68)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2022-09-23 22:01:06,860 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Executor] null
+java.lang.NullPointerException: null
+	at kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot.makeAMove(TelegramBot.java:86)
+	at kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot.onUpdateReceived(TelegramBot.java:68)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2022-09-23 22:02:01,097 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 17673 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-23 22:02:01,101 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 22:02:02,885 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 22:02:02,893 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 2.173 seconds (JVM running for 4.391)
+2022-09-23 22:02:12,106 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:02:12,107 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 22:02:12,108 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 22:02:23,201 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Executor] null
+java.lang.NullPointerException: null
+	at kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot.makeAMove(TelegramBot.java:86)
+	at kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot.onUpdateReceived(TelegramBot.java:68)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+2022-09-23 22:02:55,529 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 17682 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-23 22:02:55,534 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 22:02:57,927 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 22:02:57,935 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 2.921 seconds (JVM running for 4.387)
+2022-09-23 22:04:30,080 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 17722 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-23 22:04:30,084 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-23 22:04:31,722 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-23 22:04:31,730 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 1.986 seconds (JVM running for 2.799)
+2022-09-23 22:05:16,975 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:05:16,977 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-23 22:05:16,978 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-23 22:05:19,367 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 2. Вы делаете следующий ход: [2], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:05:19,375 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 2
+2022-09-23 22:05:24,555 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5. Вы делаете следующий ход: [5], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:05:24,556 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-23 22:05:28,185 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра 6. Вам нужно сделать еще один бросок. Текущая серия бросков: [6], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:05:28,185 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-23 22:05:33,282 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3. Вы делаете следующий ход: [3], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-23 22:05:33,283 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-23 22:34:31,369 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-23 23:17:53,107 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-23 23:51:28,251 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 00:08:32,414 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 01:04:12,972 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 02:00:44,327 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 03:12:35,228 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 04:44:53,015 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 05:40:29,604 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 06:35:13,415 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 07:09:04,348 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 09:04:35,618 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 10:04:40,202 INFO org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 10:39:23,832 ERROR org.telegram.telegrambots.updatesreceivers.DefaultBotSession [LilaBySokolskiyBot Telegram Connection] api.telegram.org:443 failed to respond
+org.apache.http.NoHttpResponseException: api.telegram.org:443 failed to respond
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:250)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:189)
+2022-09-24 22:39:08,619 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 27097 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-24 22:39:08,622 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-24 22:39:09,467 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-24 22:39:09,622 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 125 ms. Found 1 JPA repository interfaces.
+2022-09-24 22:39:10,168 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-24 22:39:10,236 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-24 22:39:10,396 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-24 22:39:10,508 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-09-24 22:39:10,737 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-09-24 22:39:10,753 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-09-24 22:39:11,479 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-24 22:39:11,507 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-24 22:39:13,334 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-24 22:39:13,343 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 5.164 seconds (JVM running for 6.129)
+2022-09-24 22:44:56,595 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Сохранен пользователь: kryuchkov.production.LilaBySokolskiyBot.model.User@11dfbfb6
+2022-09-24 22:44:56,904 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 22:44:56,904 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-24 22:44:56,905 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-24 22:46:05,984 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1. Вы делаете следующий ход: , parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 22:46:06,012 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-24 22:46:10,479 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3. Вы делаете следующий ход: , parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 22:46:10,479 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-24 22:46:15,649 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5. Вы делаете следующий ход: , parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 22:46:15,650 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-24 22:46:18,204 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 2. Вы делаете следующий ход: , parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 22:46:18,206 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 2
+2022-09-24 22:46:20,510 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1. Вы делаете следующий ход: , parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 22:46:20,510 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-24 22:49:12,637 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-24 22:49:12,737 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-09-24 22:49:12,809 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-09-24 23:01:26,631 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 28228 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-24 23:01:26,636 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-24 23:01:27,070 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-24 23:01:27,129 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 46 ms. Found 1 JPA repository interfaces.
+2022-09-24 23:01:27,521 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-24 23:01:27,598 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-24 23:01:27,762 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-24 23:01:27,853 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-09-24 23:01:28,009 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-09-24 23:01:28,023 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-09-24 23:01:28,619 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-24 23:01:28,628 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-24 23:01:30,064 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-24 23:01:30,072 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 3.746 seconds (JVM running for 4.558)
+2022-09-24 23:02:02,086 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:02:02,089 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-24 23:02:02,090 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-24 23:02:07,680 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 2. Вы делаете следующий ход: [2], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:02:07,691 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 2
+2022-09-24 23:02:11,241 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1. Вы делаете следующий ход: [1], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:02:11,241 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-24 23:02:15,401 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра 6. Вам нужно сделать еще один бросок. Текущая серия бросков: , parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:02:15,401 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-24 23:02:33,724 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-24 23:02:33,729 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-09-24 23:02:33,740 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-09-24 23:03:17,513 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Starting LilaBySokolskiyBotApplication using Java 11.0.15 on MacBook-Pro-Dmitry.local with PID 28339 (/Users/dmitrykryuchkov/dev/LilaBySokolskiyBot/target/classes started by dmitrykryuchkov in /Users/dmitrykryuchkov/dev/LilaBySokolskiyBot)
+2022-09-24 23:03:17,516 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-24 23:03:17,962 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-24 23:03:18,008 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+2022-09-24 23:03:18,329 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-24 23:03:18,398 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-24 23:03:18,554 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-24 23:03:18,658 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-09-24 23:03:18,814 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-09-24 23:03:18,829 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-09-24 23:03:19,341 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-24 23:03:19,357 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-24 23:03:20,689 INFO kryuchkov.production.LilaBySokolskiyBot.config.BotInitialazier [main] Бот зарегистрирован
+2022-09-24 23:03:20,695 INFO kryuchkov.production.LilaBySokolskiyBot.LilaBySokolskiyBotApplication [main] Started LilaBySokolskiyBotApplication in 3.462 seconds (JVM running for 4.125)
+2022-09-24 23:03:24,507 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:24,508 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-24 23:03:24,509 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853
+2022-09-24 23:03:27,280 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 2. Вы делаете следующий ход: [2], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:27,286 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 2
+2022-09-24 23:03:32,061 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 2. Вы делаете следующий ход: [2], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:32,061 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 2
+2022-09-24 23:03:38,218 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра 6. Вам нужно сделать еще один бросок. Текущая серия бросков: [6], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:38,218 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-24 23:03:42,151 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5. Вы делаете следующий ход: [6, 5], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:42,151 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-24 23:03:50,029 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5. Вы делаете следующий ход: [5], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:50,031 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-24 23:03:53,250 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 4. Вы делаете следующий ход: [4], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:53,250 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 4
+2022-09-24 23:03:57,599 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3. Вы делаете следующий ход: [3], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:03:57,599 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-24 23:04:00,598 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1. Вы делаете следующий ход: [1], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:00,599 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-24 23:04:03,119 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5. Вы делаете следующий ход: [5], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:03,119 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-24 23:04:08,661 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3. Вы делаете следующий ход: [3], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:08,661 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-24 23:04:17,685 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1. Вы делаете следующий ход: [1], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:17,686 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-24 23:04:18,993 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Сохранен пользователь: kryuchkov.production.LilaBySokolskiyBot.model.User@15532b5c
+2022-09-24 23:04:19,114 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Привет Алексей, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:19,115 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Алексей
+2022-09-24 23:04:19,115 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 146139842
+2022-09-24 23:04:20,084 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 5. Вы делаете следующий ход: [5], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:20,084 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 5
+2022-09-24 23:04:22,458 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 1. Вы делаете следующий ход: [1], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:22,458 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 1
+2022-09-24 23:04:24,152 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра 6. Вам нужно сделать еще один бросок. Текущая серия бросков: [6], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:24,153 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 6
+2022-09-24 23:04:25,607 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра 6. Вам нужно сделать еще один бросок. Текущая серия бросков: [6], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:25,608 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 6
+2022-09-24 23:04:29,042 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Выпала цифра: 3. Вы делаете следующий ход: [6, 3], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:29,042 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853сделал бросок. Выпала цифра: 3
+2022-09-24 23:04:29,164 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 3. Вы делаете следующий ход: [6, 3], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:04:29,164 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 3
+2022-09-24 23:05:14,221 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 5. Вы делаете следующий ход: [5], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:14,223 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 5
+2022-09-24 23:05:17,005 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 3. Вы делаете следующий ход: [3], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:17,006 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 3
+2022-09-24 23:05:19,598 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 4. Вы делаете следующий ход: [4], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:19,598 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 4
+2022-09-24 23:05:21,384 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра 6. Вам нужно сделать еще один бросок. Текущая серия бросков: [6], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:21,385 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 6
+2022-09-24 23:05:23,698 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Выпала цифра: 4. Вы делаете следующий ход: [6, 4], parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:23,698 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842сделал бросок. Выпала цифра: 4
+2022-09-24 23:05:32,384 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:32,384 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 146139842
+2022-09-24 23:05:35,081 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 146139842 получил сообщение: SendMessage(chatId=146139842, text=Неизвестная команда, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:05:35,081 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Запрошена неизвестная команда пользователем: 146139842
+2022-09-24 23:11:02,542 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Пользователь 167944853 получил сообщение: SendMessage(chatId=167944853, text=Привет Dmitry, добро пожаловать в игру Лилу!, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2022-09-24 23:11:02,546 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Отправлен ответ пользователя Dmitry
+2022-09-24 23:11:02,546 INFO kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot [LilaBySokolskiyBot Telegram Executor] Выполнена команда start пользователем: 167944853

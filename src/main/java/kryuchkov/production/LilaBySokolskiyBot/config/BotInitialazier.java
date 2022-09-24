@@ -1,6 +1,7 @@
-package kryuchkov.production.LiluBySokolskiyBot.config;
+package kryuchkov.production.LilaBySokolskiyBot.config;
 
-import kryuchkov.production.LiluBySokolskiyBot.service.TelegramBot;
+import kryuchkov.production.LilaBySokolskiyBot.service.TelegramBot;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;
@@ -10,6 +11,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 @Component
+@Slf4j
 public class BotInitialazier {
 
     @Autowired
@@ -20,7 +22,9 @@ public class BotInitialazier {
         TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
         try  {
             telegramBotsApi.registerBot(bot);
+            log.info("Бот зарегистрирован");
         } catch (TelegramApiException e) {
+            log.error("Произошла ошибка при инициализации бота: " + e.getMessage());
         }
     }
 
